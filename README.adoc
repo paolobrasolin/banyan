@@ -18,7 +18,11 @@ In the shade of another one, Kassapa Buddha found enlightenment.
 
 == The project
 
-NOTE: The seed is planted and growing.
+CAUTION: The seed is planted and growing.
+
+Click to read the Jupyter notebooks with an online viewer:
+
+* link:https://nbviewer.jupyter.org/github/paolobrasolin/banyan/blob/main/v0/v0.ipynb[banyan v0]
 
 [bibliography]
 == References
