@@ -23,6 +23,7 @@ CAUTION: The seed is planted and growing.
 Click to read the Jupyter notebooks with an online viewer:
 
 * link:https://nbviewer.jupyter.org/github/paolobrasolin/banyan/blob/main/v0.ipynb[banyan v0]
+* link:https://nbviewer.jupyter.org/github/paolobrasolin/banyan/blob/main/v1.ipynb[banyan v1]
 
 [bibliography]
 == References
